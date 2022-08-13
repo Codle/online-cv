@@ -51,62 +51,35 @@ education:
       university: University of Electronic Science and Technology of China
       time: 2018 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        NLP, Code Search
     - degree: BSc in Computer Science 
       university: Southwest Petroleum University
       time: 2014 - 2018
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
     - role: Machine Learning Engineer
       time: 2020.12 - Present
       company: ByteDance, Beijing
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        - AML (Applied Machine Learning) Team at Data.
+        - Developing the machine learning platform on SaaS.
+        - Researching on accelerating deep learning training and inference.
+        - Researching on the domain-specific large language model.
     - role: Software Engineer Intern
       time: 2020.06 - 2020.09
       company: Microsoft, Remote
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Fresh Core Team at Bing
+        - Developed inner utils for visual debugging.
+        - Researched mining fresh queries from daily logs.
+        - Researched training re-rank model based on the fresh labels.
     - role: Machine Learning Engineer Intern
       time: 2019.12 - 2020.03
       company: iQIYI, Chengdu
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Qiwen Tag Team at IIG.
+        - Researched generating reviews in iQIYI PaoPao.
+        - Compared Transformer, BERT, GPT, etc. models for text generating tasks.
+        - Deployed the trained model which service for operation staff.
 # projects:
 #     title: Projects
 #     intro: >
@@ -156,27 +129,27 @@ experiences:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#       - name: Javascript & jQuery
+#         level: 98%
 
-      - name: Angular
-        level: 98%
+#       - name: Angular
+#         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#       - name: HTML5 & CSS
+#         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+#       - name: Ruby on Rails
+#         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#       - name: Sketch & Photoshop
+#         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
