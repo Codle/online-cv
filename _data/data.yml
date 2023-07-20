@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: zhengqiang.yin@outlook.com
     timezone: China Timezone (UTC+8)
-    website: blog.distml.com #do not add http://
+    website: codle.net #do not add http://
     linkedin: zhengqiang-yin
     github: Codle
     # telegram: # add your nickname without '@' sign
@@ -40,7 +40,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      This is Zhengqiang Yin (银正强), a machine learning engineer at Bytedance AML 
+      This is Zhengqiang Yin (银正强), a machine learning engineer at ByteDance AML 
       (Applied Machine Learning) team. Before that, he worked at Microsoft and iQiyi as 
       an intern. His areas of interest include natural language processing, MLOps, and 
       distributed systems.
